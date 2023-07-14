@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a software engineer passionate about building 
 
 ## Recent Contribution
 
-- [New Relic]([https://github.com/newrelic/newrelic-pixie](https://github.com/newrelic/node-newrelic/pull/1517)): Added Prisma metrics to enhance performance monitoring.
+- [New Relic](https://github.com/newrelic/node-newrelic/pull/1517): Added Prisma metrics to enhance performance monitoring.
 
 ## Let's Connect!
 
