@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a software engineer passionate about building 
 
 I'm always open to collaborating on interesting projects or discussing ideas. You can reach me via:
 
-- 🌐 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://tr.linkedin.com/in/osman-mert-acar)
+- 🌐 [LinkedIn](https://linkedin.com/in/osman-mert-acar)
 - ✉️ [Email](mailto:contact@osmanmertacar.com)
 
 Feel free to connect and let's chat about databases, cloud platforms, or anything tech-related!
