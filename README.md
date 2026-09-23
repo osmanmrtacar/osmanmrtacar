@@ -7,7 +7,7 @@ Software Engineer with 6+ years of experience building scalable, high-performanc
 - 🌊 Building real-time and batch data pipelines with Apache Kafka, Apache Flink, and Apache Iceberg.
 - ⚙️ Designing event-driven microservices in Go and TypeScript/Node.js.
 - ☁️ Managing cloud infrastructure as code on AWS and GCP with Terraform and Kubernetes.
-- 🎬 Building [Watta Watch](https://watta.watch), an AI-powered movie and TV discovery platform with natural-language search.
+- 🎬 Building [Watta Watch](https://wattawatch.com), an AI-powered movie and TV discovery platform with natural-language search.
 
 ## Skills
 
