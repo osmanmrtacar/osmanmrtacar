@@ -1,12 +1,12 @@
 # Hi there, I'm Osman 👋
 
-Software Engineer with 6+ years of experience building scalable, high-performance backend and data systems. Currently on the Data Infrastructure team at **The New York Times**, working on event streaming with Kafka and Flink.
+Software Engineer with 6+ years of experience building scalable, high-performance backend and data systems. I enjoy working on event streaming, data infrastructure, and reliable distributed systems.
 
 ## About Me
 
-- 📰 **The New York Times:** migrated legacy batch pipelines to Apache Kafka and Apache Flink, handling 1B+ daily records at 35% lower cost.
-- 🌊 Partnered across teams to build a Kafka and Apache Iceberg ingestion pipeline processing 200M+ events/day from iOS, Android, and web.
-- 🛒 **Getir:** built event-driven systems with Go and Kafka that cut app open time by 50% for 10M+ daily users.
+- 🌊 Building real-time and batch data pipelines with Apache Kafka, Apache Flink, and Apache Iceberg.
+- ⚙️ Designing event-driven microservices in Go and TypeScript/Node.js.
+- ☁️ Managing cloud infrastructure as code on AWS and GCP with Terraform and Kubernetes.
 - 🎬 Building [Watta Watch](https://watta.watch), an AI-powered movie and TV discovery platform with natural-language search.
 
 ## Skills
